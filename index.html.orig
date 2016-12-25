@@ -15,8 +15,11 @@ alert("Hello World");
 <article>
 тест номер два
 
+<<<<<<< HEAD
 dff
+=======
 Brench 2
+>>>>>>> branch2
 </article>
 </main>
 
